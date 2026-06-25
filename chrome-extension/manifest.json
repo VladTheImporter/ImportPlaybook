@@ -5,9 +5,10 @@
   "description": "Export vehicle data from B-Pro listings into a standardized format.",
   "permissions": [
     "activeTab",
+    "tabs",
     "downloads",
     "storage"
-  ],
+],
   "host_permissions": [
     "https://b-pro.ca/*"
   ],
